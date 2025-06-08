@@ -160,29 +160,11 @@ Struktur kode utama (`REVISI YANG UDAH FIXS.py`) terdiri dari beberapa bagian ut
 
 ---
 
-## 🔖 Lisensi
-
-Proyek ini bersifat open-source dan bebas digunakan atau dimodifikasi untuk keperluan edukasi dan non-komersial.
-
-*(Tambahkan lisensi sesuai kebutuhan proyek Anda, misalnya MIT License.)*
-
----
-
 ## 🚧 Rencana Pengembangan Selanjutnya
 
 * Menambahkan database lokal untuk penyimpanan yang lebih aman dan terstruktur.
 * Integrasi dengan fitur berbagi resep secara online.
 * Menambah fitur login dan autentikasi pengguna untuk keamanan data pribadi.
-
----
-
-## 📫 Kontak Pengembang
-
-Jika Anda memiliki saran, pertanyaan, atau masukan lebih lanjut, silakan menghubungi pengembang proyek:
-
-* **Nama**: *(Tambahkan nama Anda)*
-* **Email**: *(Tambahkan email Anda)*
-* **GitHub**: *(Tambahkan link GitHub Anda)*
 
 ---
 
