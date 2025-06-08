@@ -1,7 +1,3 @@
-Berikut adalah penjelasan lengkap, detail, dan terstruktur yang dapat Anda masukkan ke dalam **Repository GitHub** untuk proyek **Aplikasi Resep Makanan Sederhana**:
-
----
-
 # 📖 Aplikasi Resep Makanan Sederhana
 
 Repository ini berisi proyek pengembangan aplikasi desktop sederhana berbasis GUI Python menggunakan Tkinter, yang berfungsi untuk memudahkan pengguna dalam mengelola resep makanan. Aplikasi ini dirancang dengan tujuan memberikan kemudahan dalam penambahan, pengeditan, pencarian, penghapusan, pengurutan resep, serta ekspor/impor data resep dalam format CSV.
@@ -147,11 +143,11 @@ Struktur kode utama (`REVISI YANG UDAH FIXS.py`) terdiri dari beberapa bagian ut
 
 ---
 
-## 📸 Screenshot GUI Aplikasi (Opsional)
+## 📸 Screenshot GUI Aplikasi
 
-Anda dapat menambahkan screenshot tampilan aplikasi pada bagian ini untuk membantu visualisasi pengguna.
+![image](https://github.com/user-attachments/assets/51bf1825-7a0a-480b-8d05-b58611f965f1)
 
-*(Tambahkan gambar screenshot GUI aplikasi di sini jika diperlukan.)*
+
 
 ---
 
